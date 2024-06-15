@@ -1,5 +1,6 @@
 # gai-project4
 dip.ipynb:單獨的dip模型
+
 ddpm.ipynb:單獨ddpm模型
 ddipm.ipynb:兩者合成的模型
 evaluate.ipynb:將最後的結果進行評估，使用psnr以及ssim
